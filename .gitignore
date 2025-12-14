@@ -1,0 +1,6 @@
+*.*vpp.bak*
+*.lck
+*.vux
+
+*.bak_000f
+*.bak_*
